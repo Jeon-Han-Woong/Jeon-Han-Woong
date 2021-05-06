@@ -4,6 +4,8 @@
 
 #### Have a good time.
 
+----------
+
 :red_circle:​ Precautions :red_circle:​
 
 - 치킨은 후라이드로
