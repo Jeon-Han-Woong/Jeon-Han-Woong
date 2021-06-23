@@ -29,6 +29,10 @@
 - 2021-04-26 - 2021-06-04
   - 목표, 운동, 식사를 기록 및 관리 하며 건강 관리를 돕는 <br> 안드로이드 어플리케이션
 
+# 📑 Notion
+## 포트폴리오 요약 및 본인 수행 내용
+### https://www.notion.so/Jeon-Han-Woong-d3aaadb93b1041ebb3adc3550a4c379a
+
 
 <!--
 **Jeon-Han-Woong/Jeon-Han-Woong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
